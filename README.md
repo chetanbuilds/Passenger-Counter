@@ -27,15 +27,6 @@ This is a beginner-friendly counter application designed to track the number of 
 - **CSS**: Styled with a train-themed background and responsive button styling
 - **JavaScript (Vanilla)**: DOM manipulation and event handling
 
-## File Structure
-
-```
-├── index.html       # HTML markup for the UI
-├── index.css        # Styling for the counter app
-├── index.js         # JavaScript functionality
-├── README.md        # Project documentation
-└── oldtrain.jpg     # Background image
-```
 
 ## Key JavaScript Concepts Demonstrated
 
@@ -52,16 +43,4 @@ This is a beginner-friendly counter application designed to track the number of 
 3. Click `SAVE` to record your count and start a new count
 4. View your previous entries below the buttons
 
-## Learning Outcomes
 
-This project is great for practicing:
-- Basic HTML structure and forms
-- CSS styling and layout
-- DOM manipulation with vanilla JavaScript
-- Event-driven programming
-- Simple state management with variables
-
----
-
-**Status**: Personal JavaScript practice project  
-**Level**: Beginner-friendly
